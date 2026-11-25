@@ -2,89 +2,81 @@
 
 # James Peters
 
-### Backend Developer · Blockchain Engineer
+**Backend and Web3 engineer**
+Django, Rust, Solidity. Building on NEAR, Solana and Mantle.
 
-Building production backend systems and on-chain infrastructure — REST APIs, distributed services, and smart contracts.
-
-[![Email](https://img.shields.io/badge/-officialpeters1%40gmail.com-17213D?style=flat-square&logo=gmail&logoColor=white)](mailto:officialpeters1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-james--peters-17213D?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-peters-209b943b1)
-[![X](https://img.shields.io/badge/-%40BlvckBoy03-17213D?style=flat-square&logo=x&logoColor=white)](https://x.com/BlvckBoy03)
-
-</div>
-
-<br>
-
-## About
-
-- Backend Software Engineering Intern at **Vosyn**, working on backend services for a live, production AI video platform
-- Completed an OOP-focused engineering internship at **FlexiSAF** (May – Aug 2026)
-- Build backend and Web3 side projects outside of work — mostly Solana/EVM smart contract systems and AI-backed tooling
-- Based in Lagos, Nigeria
-
-<br>
-
-## Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-17213D?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-17213D?style=for-the-badge&logo=django&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-17213D?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-17213D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-17213D?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-17213D?style=for-the-badge&logo=openjdk&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-17213D?style=for-the-badge&logo=solidity&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-17213D?style=for-the-badge&logo=solana&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17213D?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-17213D?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-17213D?style=for-the-badge&logo=redis&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-17213D?style=for-the-badge&logo=nextdotjs&logoColor=white)
+<a href="PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/james-peters"><img src="https://img.shields.io/badge/LinkedIn-09090D?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn" /></a>
+<a href="https://x.com/BlvckBoy03"><img src="https://img.shields.io/badge/X-09090D?style=for-the-badge&logo=x&logoColor=A78BFA" alt="X" /></a>
+<a href="mailto:officialpeters1@gmail.com"><img src="https://img.shields.io/badge/Email-09090D?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email" /></a>
 
 </div>
 
-<br>
+<br />
 
-## Featured Projects
+```text
+BLOCK 00   0x4f2a91c3
+prev       0x00000000
+────────────────────────────────────────────
+Backend Software Engineer, VOSYN (Pod Titan team)
+Backend Developer, Stashorra Devices
+Lagos, Nigeria. Open to backend and Web3 roles.
+```
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <b>YieldMind</b><br>
-      <sub>AI-powered autonomous yield optimizer on the Mantle Network</sub><br>
-      <sub><i>Solidity · Node.js · Next.js · wagmi</i></sub>
-    </td>
-    <td width="33%" valign="top">
-      <b>GhostWriter Court</b><br>
-      <sub>Multi-agent system for automated IP dispute resolution</sub><br>
-      <sub><i>Python · Multi-Agent AI</i></sub>
-    </td>
-    <td width="33%" valign="top">
-      <b>SkillStake</b><br>
-      <sub>Blockchain-based skill verification and staking platform</sub><br>
-      <sub><i>Solana · Rust · Anchor</i></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <b>Olien</b><br>
-      <sub>Team account protocol for stablecoins — multisig approval, spend limits, passkey signing</sub><br>
-      <sub><i>Rust · TypeScript · Solidity</i></sub>
-    </td>
-    <td width="33%" valign="top">
-      <b>MediMind AI</b><br>
-      <sub>AI-powered healthcare intelligence platform</sub><br>
-      <sub><i>Python · FastAPI · LLM</i></sub>
-    </td>
-    <td width="33%" valign="top">
-      <b>Work Proof dApp</b><br>
-      <sub>Decentralised proof-of-work credential system</sub><br>
-      <sub><i>Solana · Rust · Anchor</i></sub>
-    </td>
-  </tr>
-</table>
+## Block 01: Now
 
-<br>
+I build and test the ad system, caching layer and APIs behind a live AI video platform at VOSYN, and I work with the Stashorra Devices team on the backend of a live ecommerce platform. Outside work, I lead smart contract builds in Rust and Solidity and ship hackathon projects across multi agent AI, zero knowledge proofs, Solana programs and EVM contracts.
+
+```text
+BLOCK 01   0x9b17e0d4
+prev       0x4f2a91c3
+```
+
+## Block 02: Featured work
+
+| Project | What I did | Link |
+| --- | --- | --- |
+| **Fliq** | Smart contract lead on a NEAR vault that routes USDC into local currency payouts. State machine, recovery paths, about 80 tests, deployed to testnet. | [Repo](https://github.com/FliqLabs/Fliq) |
+| **VOSYN, Pod Titan** | Backend for the ad system on a live AI video platform. Django REST Framework, Redis, PostgreSQL. Private company code. | [Case study](PORTFOLIO_URL/work/vosyn) |
+| **Stashorra Devices** | Backend developer on the team behind a live Nigerian ecommerce platform for UK used electronics. Python, Django, PostgreSQL. Products, verification, email workflows and transactions. | [stashorra.com](https://stashorra.com) |
+
+```text
+BLOCK 02   0x2c68d5a1
+prev       0x9b17e0d4
+```
+
+## Block 03: Stack
+
+`Python` `TypeScript` `JavaScript` `Rust` `Java` `Solidity`
+`Next.js` `React` `Tailwind`
+`Django` `DRF` `FastAPI` `Node.js` `Redis` `PostgreSQL` `Celery`
+`NEAR` `Solana` `Anchor` `Mantle` `Stellar` `Ethereum` `Hardhat` `viem` `wagmi` `ZK proofs`
+`Docker` `Nginx` `pytest` `Git` `CI/CD`
+
+```text
+BLOCK 03   0xd04f7b82
+prev       0x2c68d5a1
+```
+
+## Block 04: Hackathon builds
+
+- **Olien** on Monad, stablecoin platform, [repo](https://github.com/jamesonchain/olien)
+- **Ajo Circles** on Solana, an on chain rotating savings group
+- **YieldMind** on Mantle, autonomous yield optimizer
+- **ZKBridge** on Stellar, private cross chain bridge with ZK proofs
+- **GhostWriter Court**, a 6 agent pipeline that investigates copyright disputes
+
+```text
+BLOCK 04   0x61e3a9f7
+prev       0xd04f7b82
+```
+
+## Block 05: Say hello
+
+The next block is yours. Email me at [officialpeters1@gmail.com](mailto:officialpeters1@gmail.com) or find me on [LinkedIn](https://linkedin.com/in/james-peters) and [X](https://x.com/BlvckBoy03).
 
 <div align="center">
-<sub>Open to backend and Web3 engineering opportunities — reach out via email or LinkedIn.</sub>
+
+<sub>Last block mined: 24 Nov 2026</sub>
+
 </div>
